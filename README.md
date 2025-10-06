@@ -10,11 +10,12 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 1. Once upon a time, the scientist made a time machine and after he succeeded, someone who stole his time machine teleported to the castle.
    ![castle](img/castle.png)
 
-2. Then suddenly, a dragon appeared…
+2. The person who stole the time machine was begged by the king to find the treasure.
+   ![treasure chest](img/treasure_large.png)
+  
+4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![dragon](img/dragon.png)
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img/treasure_large.png)
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
