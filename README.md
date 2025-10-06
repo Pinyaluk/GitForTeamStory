@@ -18,21 +18,21 @@ member
 2. The person who stole the time machine was begged by the king to find the treasure.
    ![treasure chest](img/treasure_large.png)
   
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![dragon](img/dragon.png)
+3. After that, he went find a treasure by a map that the king gave it to him.
+   ![map](img/map.png)
 
 
-5. Someone found a map, but it had no directions.  
+4. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
    ![map](img/map.png)
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+5. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
-7. A rocket blasted off, but at the same time the **time machine** broke down. 
+6. A rocket blasted off, but at the same time the **time machine** broke down. 
 
-8. The cat was supposed to talk here, but the line is missing.  
+7. The cat was supposed to talk here, but the line is missing.  
 
-9. In the forest, the detective discovered… something.  
+8. In the forest, the detective discovered… something.  
    (What did they find?)  
 
-10. The ending… well, we don’t really have one. Please fix this.
+9. The ending… well, we don’t really have one. Please fix this.
