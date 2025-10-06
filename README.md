@@ -24,13 +24,5 @@ member
 4. During his journey, he found the dragon and finally defeated a dragon.
    ![dragon](img/dragon.png)
 
-5. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+5. And he became a billionaire from the wealth he got.  
 
-6. A rocket blasted off, but at the same time the **time machine** broke down. 
-
-7. The cat was supposed to talk here, but the line is missing.  
-
-8. In the forest, the detective discovered… something.  
-   (What did they find?)  
-
-9. The ending… well, we don’t really have one. Please fix this.
