@@ -7,14 +7,11 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
+1. Once upon a time, the scientist made a time machine and after he succeeded, someone who stole his time machine teleported to the castle.
    ![castle](img/castle.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. Then suddenly, a dragon appeared…
    ![dragon](img/dragon.png)
-
-3. The scientist shouted something very important but nobody wrote it down.  
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img/treasure_large.png)
@@ -25,7 +22,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+7. A rocket blasted off, but at the same time the **time machine** broke down. 
 
 8. The cat was supposed to talk here, but the line is missing.  
 
