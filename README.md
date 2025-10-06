@@ -2,7 +2,12 @@
 
 This is the starting draft of your team’s story.  
 Your mission: **revise and improve it**, making it coherent, funny, and illustrated with the provided images.
-
+member
+1.Achiraya Choksomsnong 6809650762
+2.Pinyaluk Pongkhemmaphak 6809650663
+3.Radech Photipitoon 6809650671
+4.Chutikarn Junsricha 6809650424
+5.Siripriya Nantapornpirom 6809650747
 ---
 
 ## Our Wonderful Story
